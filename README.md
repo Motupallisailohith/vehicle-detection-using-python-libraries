@@ -4,3 +4,5 @@ This is a simple vehicle Detection ,counting and classification program
 Here I used background subtractions methods of OpenCV Library of Python and morphological transformation. Here we defined a vehicle class named as Vehicle.py
 
 Library Required: 1.opencv 2. Numpy
+
+donload all files and run the vehicle_detection_main.py to grt the output
